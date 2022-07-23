@@ -1,0 +1,17 @@
+age_replace : {'18 - 34':0, '35-37':1, '38-39':2, '40-42':3, '43-44':4, '45-50':5}
+to_dummy : 'Sperm From'
+to_remove : ['Cause of Infertility - Female Factors',
+              'Cause of Infertility -  Partner Sperm Immunological factors',
+              'Type of Infertility -Couple Primary', 
+              'Type of Infertility - Male Primary', 
+              'Frozen Cycle', 'Fresh Cycle', 
+              'Sperm From_Partner', 
+              'Total number of live births - conceived through IVF', 
+               'Eggs Mixed With Partner Sperm'],
+to_numeric : True
+replace_age : True
+get_dummies : True
+replace_eggsrc : True
+remove_cols : True
+undersampling : True
+out_path : '../output/'

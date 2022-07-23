@@ -1,0 +1,36 @@
+file_loc1 : '../data/ar-2010-2014-csv.csv'
+file_loc2 : '../data/ar-2015-2016-csv.csv'
+target_column : 'Live Birth Occurrence'
+feats : ['Patient Age at Treatment',
+        'Total Number of Previous IVF cycles',
+        'Total number of IVF pregnancies',
+        'Total number of live births - conceived through IVF',
+        'Type of Infertility - Female Primary',
+        'Type of Infertility - Female Secondary',
+        'Type of Infertility - Male Primary',
+        'Type of Infertility - Male Secondary',
+        'Type of Infertility -Couple Primary',
+        'Type of Infertility -Couple Secondary',
+        'Cause  of Infertility - Tubal disease',
+        'Cause of Infertility - Ovulatory Disorder',
+        'Cause of Infertility - Male Factor',
+        'Cause of Infertility - Patient Unexplained',
+        'Cause of Infertility - Endometriosis',
+        'Cause of Infertility - Cervical factors',
+        'Cause of Infertility - Female Factors',
+        'Cause of Infertility - Partner Sperm Concentration',
+        'Cause of Infertility -  Partner Sperm Morphology',
+        'Causes of Infertility - Partner Sperm Motility',
+        'Cause of Infertility -  Partner Sperm Immunological factors',
+        'Stimulation used',
+        'Egg Source',
+        'Sperm From', 
+        'Fresh Cycle', 
+        'Frozen Cycle', 
+        'Eggs Thawed',
+        'Fresh Eggs Collected', 
+        'Eggs Mixed With Partner Sperm',
+        'Embryos Transfered',
+        'Live Birth Occurrence']
+test_size : 0.2
+out_path : '../output/'
