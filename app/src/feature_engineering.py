@@ -15,6 +15,8 @@ from sklearn.preprocessing import StandardScaler
 from tqdm import tqdm
 import time
 
+tqdm.pandas()
+
 from utils import read_yaml
 
 ENGINEERING_CONFIG_PATH = "../config/engineering_config.yaml"
