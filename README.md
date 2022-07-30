@@ -7,6 +7,10 @@ Infertility is a global health issue and is estimated to affect 48.5 million cou
 * Methods that we use in this task is Decision Tree.
 ### **Methods**
 ![Architecture Overview-Overview](https://user-images.githubusercontent.com/72263498/181914511-dc7c3969-ddd4-457c-9f3b-e900933a1641.jpg)
+#### **Training**
+![Architecture Overview-Training](https://user-images.githubusercontent.com/72263498/181915379-91baf13b-39ea-46c1-85a9-0e4a9ff74c37.jpg)
+#### **Prediction**
+![Architecture Overview-Predict](https://user-images.githubusercontent.com/72263498/181915382-d230f0f1-c1de-49ae-a974-46f7e7417ac9.jpg)
 ### **How to Run**
 
 ### **Dataset**
