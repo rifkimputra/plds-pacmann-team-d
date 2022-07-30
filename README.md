@@ -6,11 +6,11 @@ Infertility is a global health issue and is estimated to affect 48.5 million cou
 * Main objective of this task is to predict the live-birth occurence before in-vitro fertilization treatment.
 * Methods that we use in this task is Decision Tree.
 ### **Methods**
-![Architecture Overview-Overview](https://user-images.githubusercontent.com/72263498/181914511-dc7c3969-ddd4-457c-9f3b-e900933a1641.jpg)
+![Architecture Overview-Overview (1)](https://user-images.githubusercontent.com/72263498/181916886-585c1ba4-1a0c-4537-acab-edd20fb62572.jpg)
 #### **Training**
 ![Architecture Overview-Training](https://user-images.githubusercontent.com/72263498/181915379-91baf13b-39ea-46c1-85a9-0e4a9ff74c37.jpg)
 #### **Prediction**
-![Architecture Overview-Predict](https://user-images.githubusercontent.com/72263498/181915382-d230f0f1-c1de-49ae-a974-46f7e7417ac9.jpg)
+![Architecture Overview-Predict (1)](https://user-images.githubusercontent.com/72263498/181916893-6f608d9e-9a2f-409d-ae8a-1350cb94eae9.jpg)
 ### **How to Run**
 
 ### **Dataset**
