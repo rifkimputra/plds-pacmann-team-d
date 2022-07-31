@@ -12,7 +12,7 @@ Infertility is a global health issue and is estimated to affect 48.5 million cou
 #### **Prediction**
 ![Architecture Overview-Predict (1)](https://user-images.githubusercontent.com/72263498/181916893-6f608d9e-9a2f-409d-ae8a-1350cb94eae9.jpg)
 ### **How to Run**
-
+Click https://rifkimputra-plds-pacmann-team-d-appsrcapp-k85nzw.streamlitapp.com/  
 ### **Dataset**
 * Data IVF 2010-2014
 * Data IVF 2015-2016
