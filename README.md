@@ -16,6 +16,10 @@ Infertility is a global health issue and is estimated to affect 48.5 million cou
 ### **Dataset**
 * Data IVF 2010-2014
 * Data IVF 2015-2016
+### **Conclusion**
+* The Decision Tree model with hyperparameter tuning has shown the best result, achieving an ROC score of 0.652 and F1-score of 0.4892 when compared with other models. 
+* The results we have obtained so far have not been satisfactory. For further improvement, we suggest exploring more models such as SVM, deep learning, or KNN. Adding more important predictors, such as consumption of alcohol, smoking, caffeine consumption, hypertension, and other lifestyle factors that have a significant impact on predicting pregnancy, might be beneficial as well to improve the result.
+* The EDA feature in the app could be improved to make the charts live-updated as more data is input through the application.
 ### **References**
 1. Mascarenhas, M. N., Flaxman, S. R., Boerma, T., Vanderpoel, S., & Stevens, G. A. (2012).
 National, regional, and global trends in infertility prevalence since 1990: A systematic analysis of
